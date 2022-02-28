@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To you that are called by the name of Baptists, or the baptized people that do what you do by imitation from John Baptist, Christ and the Apostles, who had not the form without the power to reform; but you have only the form, but wants the power that doth reform. Also several other things given forth from the spirit of the Lord, necessary for all people to take into consideration as they love their souls.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94713</idno>
+            <idno type="STC">Wing T1753</idno>
+            <idno type="STC">Thomason E808_18</idno>
+            <idno type="STC">ESTC R207533</idno>
+            <idno type="EEBO-CITATION">99866577</idno>
+            <idno type="PROQUEST">99866577</idno>
+            <idno type="VID">118853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E808[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To you that are called by the name of Baptists, or the baptized people that do what you do by imitation from John Baptist, Christ and the Apostles, who had not the form without the power to reform; but you have only the form, but wants the power that doth reform. Also several other things given forth from the spirit of the Lord, necessary for all people to take into consideration as they love their souls.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+                  <author>Naylor, James, 1617?-1660.</author>
+                  <author>Fox, Goerge, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Richard Farnworth; "Several other things given forth from the spirit of the Lord" signed: J.N. and G.F. (i.e. James Naylor and George Fox).</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 18 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118853:1" rendition="simple:additions"/>
+            <head>To you that are called by the name of <hi>Baptiſts,</hi> or the <hi>Baptized</hi> people that do what you do by Imitation from JOHN BAPTIST CHRIST and the APOSTLES, who had not the to run without the power to refo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; but you have only the form, but wants the power that doth reform.</head>
+            <head type="sub">Alſo ſeveral other things given forth from the Spirit of the Lord, neceſſary for all people to take into conſideration as they love their ſouls.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Aug: 18 1654</add>
+                  </date>
+               </dateline>
+            </opener>
+            <div type="part">
+               <p n="1">I. YOu that imitate <hi>John</hi> in <hi>Luke</hi> 3. where is your fruits brought forth, where is the axe laid to the root of the tree? you baptiſts that were oppreſſors before, where is your op<g ref="char:EOLhyphen"/>preſſion ceaſed, you that have two Coats, where do you give to them that have none; where do you feed the hungry, and cloath the naked, and let the oppreſſed goe free, and uſe no violence? Where do you act according to <hi>Johns</hi> council in that of <hi>Luke,</hi> chap. 3. ver. 8. to 15.</p>
+               <p n="2">II. You that imitate a Baptiſm from Chriſt, becauſe he went down into the water, <hi>Mat.</hi> 3. 16. 7.</p>
+               <p>When did ever the heavens open to any of you? and when did you after you came out of the water, at any time ſee the Spi<g ref="char:EOLhyphen"/>rit of God to deſcend like a Dove, and light upon you, as it did upon him? And when did you hear a voice from heaven, ſay<g ref="char:EOLhyphen"/>ing to you, Ye are my well-beloved ſons, in whom I am well pleaſed, to confirm your way of baptizing, as it did then?</p>
+               <p>For they that are guided by the ſpirit of God, are the ſons of God; and if ſons, then heirs, and joynt-heirs with Chriſt, as they were who were baptized into the death of Chriſt, and bu<g ref="char:EOLhyphen"/>ried with him in baptiſm, that like as Chriſt was raiſed up from the dead, by the glory of the Father, ſo they to newneſs of life, who were owned with the love of God, and were ſons, 1 <hi>John 3. 1. Rom</hi> 8. 14. to 18, and <hi>Rom 6. 3, 4. 5. verſes</hi>
+               </p>
+               <p>They who baptized then had manifeſt tokens of the love and power of God, to confirm that viſible and outward baptiſm of water.</p>
+               <p>
+                  <pb n="2" facs="tcp:118853:2"/>
+But what power or manifeſt token have you Baptizers, that do but imitate them who had the holy Ghoſt and the power, is not that wanting, and doth not accompany your baptiſm, and ſo it is but as a bell without a clapper, and dead as a body with<g ref="char:EOLhyphen"/>out a ſpirit; and ſo a form without power.</p>
+               <p n="3">III. You baptized people that imitate <hi>Philip,</hi> that Preached to the Church: When did the ſpirit bid you goe, as it did him? and when were you caught away out of ſight by the ſpirit, after you had done, as <hi>Philip</hi> was? Where is your confirmation, or fignes, or miracles, to accompany your baptiſm, as it did theirs? Are you all Chaffe, and no Wheat? What is the form to the power, ſaith the Lord? Is not my word as a fire and a hammer, to beat down, and to burn up?</p>
+               <p n="4">IV. You that imitate <hi>Peter</hi> when he went to the Gentiles to preach the word in <hi>Cornelius</hi>'s houſe, and the holy Ghoſt ſell on them, at the preaching of the word, to ſhew that God would make choice of the Gentiles, as well as the Jews, and ſeeing that they received the holy Ghoſt as well as they of the circum<g ref="char:EOLhyphen"/>ciſion, none ought to forbid them of being partakers of the pri<g ref="char:EOLhyphen"/>viledge of Chriſt, as well as the Jews; and they were baptized as well as they: But where is your viſion that <hi>Peter</hi> had before he went to the Gentiles? Where is your power to give the holy Ghoſt? are you not ſayers, but no doers, having a form, but want the power? <hi>Acts</hi> 10. chapt.</p>
+               <p n="5">V. You that imitate the Apoſtles way of baptizing with wa<g ref="char:EOLhyphen"/>ter, but cannot give the holy Ghoſt? Where have any of you ſold your poſſeſſions, and laid the price down at the Apoſtles feet, as the baptized people did in <hi>Acts</hi> 4. and ſuffer none to want, but have all things common, as they had? <hi>Act.</hi> 4. 31, 32, to the end.</p>
+               <p n="6">VI. You that are baptized with water, but want the gift of the holy Ghoſt, How can you caſt out and deliver up to Satan, by what power do you that? Can Satan caſt out Satan? Or a Kingdom divided againſt it ſelf, how can it ſtand?</p>
+               <p n="7">VII. You dippers and ſprinklers, why do you differ, one dip, another ſprinkle? And what have you to do to buſie your ſelves to preſs people to that thing, as neceſſary to ſalvation, and you have not power to eſtabliſh them? When did any receive the holy Ghoſt and power from on high, by laying on of your
+<pb n="3" facs="tcp:118853:2"/>
+hands; give over your dipping, and your ſprinkling, you Immi<g ref="char:EOLhyphen"/>tators, that have the forme, but wanteth the power: And re<g ref="char:EOLhyphen"/>turne me your Anſwer to theſe few Queſtions propounded to you.</p>
+               <p>For Chriſt hath not ſent me to Baptize but to lay open decetps and deceivers: and to preach the Goſpel, not with wiſ<g ref="char:EOLhyphen"/>dome of words leaſt the Croſſe of Chriſt ſhould be of none effect, for the preaching of the Croſſe is to them that periſh fooliſhneſſe, but unto us which are ſaved, it is the power of God 1. <hi>Cor.</hi> 1. 17. 18. <hi>verſe.</hi>
+               </p>
+               <closer>
+                  <signed>Richard Farnworth.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>The baptiſm of Chriſt we own, which all the Saints were baptized into, which was, <hi>By one Spirit into one Body,</hi> as in 1 <hi>Cor.</hi> 12. 13. &amp; by this baptiſm we do witneſs the waſhing away of ſin, not only the waſhing away the filth of the fleſh, but the anſwer of a good conſcience towards God; but ſprinkling of Infants we deny, which there is no Scripture for, And all you, who from your imaginations do imitate <hi>Johns</hi> baptiſm, and ſo go into the water, and ſay, You are believers, and have right to the Ordi<g ref="char:EOLhyphen"/>nances of Chriſt, but you to be believers we deny, who are not yet come to repentance, and your water baptiſm, which is but an imitation from the letter: for the Lord never ſent you forth; nor commanded you neither to preach, nor baptize, as they did whom you go about to imitate, who are not yet come to repen<g ref="char:EOLhyphen"/>tance, nor to the firſt Principle of the doctrine of Chriſt; nor to own the light of Chriſt in your conſciences; who ſhould exerciſe them, and lead you to wait upon God, and lead you to repen<g ref="char:EOLhyphen"/>tance, and the faith of believers you know not, for <hi>the miſtery of faith is held in a pure conſcience,</hi> 1. Tim. 3. 9, which you cannot witneſs, which hates the light of Chriſt, which ſhould exerciſe your conſciences, and ſo your minds and conſciences is defiled, and with that minde you talk of faith, and of the Ordinances of Chriſt, and of water-baptiſm, which ſerveth unto us for a figure, as the Apoſtle ſaith, 1 <hi>Pet.</hi> 3. 21, And Jeſus Chriſt was baptized by <hi>John</hi> by water, that <hi>he might fulfill all righteouſneſs,</hi> Mat. 3. 15, And <hi>John</hi> was a Prophet, and Chriſt is the end of the Pro<g ref="char:EOLhyphen"/>phets; and <hi>Johns</hi> baptiſm was but a figure; for he ſaid, <hi>he did but baptize with water</hi> but Chriſt is the end of all figures, types and
+<pb n="4" facs="tcp:118853:3"/>
+ſhaddows, and did fulfil them; for he fulfilled all righteouſneſs and <hi>Johns</hi> miniſtry and <hi>Johns</hi> baptiſm, and he that fulfilled all righteouſneſs, the ſame baptizeth, which <hi>Iohn</hi> did bear witneſs unto, and all men came unto him, <hi>John.</hi> 3. 16. but he baptized none with water: but this is a myſtery to the dark minde, which knows not the baptiſm of Chriſt, nor <hi>Iohns</hi> doctrine, nor Jeſus Chriſt <hi>the true light which enlighteneth every one that cometh into the world,</hi> which <hi>John</hi> bare witneſs unto, <hi>Job.</hi> 1, 9 but goes to hold up the types and figures which Chriſt came to fulfil, and ſo denieſt Chriſt to be come in the Fleſh to fulfill all righteouſneſs; and ſo thou art an Antichriſt, who holds up the figures which Chriſt came to fulfil, and ſo thou denies the Scriptures and Chriſt, who ſaid he was to fulfil all righteouſneſs; and the Saints baptiſm thou art ignorant of, which is, <hi>By one Spirit into one Body,</hi> 1 <hi>Cor.</hi> 12. 13, And <hi>Paul</hi> who was a Miniſter of Chriſt and Preached the Goſpel, did bring many into this baptiſm, and he was not ſent to baptize with water, but to preach the Goſpel, and all the Churches which he preached unto, came to witneſs Chriſts baptiſm with the holy Ghoſt and with fire, by one Spirit into one Body, and was baptized into Chriſt; who was the Head of the Body, <hi>Rom.</hi> 6, 3. and by this baptiſm we are thus waſhed from all filthineſs of Fleſh and Spirit; but your imitated baptiſm of water we deny, who live in your filthineſs of Fleſh and Spirit, whoſe minds and conſciences are defiled; but the baptiſm of Chriſt we own, which purifies our conſciences from dead works, and keeps our minds undefiled <hi>by the waſhing of generation; and renewing of the Holy Ghoſt,</hi> Tit. 3. 5.</p>
+               <p>For the word Sacrament, there is no ſuch Scripture which ſpeaks of a Sacrament; therefore we do deny you and your Sacrament, and your bread and wine, which is carnal, and ſeeds the carnel which muſt die, and your Communion is in that which is carnal in the creatures, and drunkards, and ſwearers have fellowſhip together with you in thoſe things, and all lyars, covetous ones, prophain and idolatrous ones eats of the bread, and drinks of the cup, and ſits at the Table, which is the Table of divels, and this is your Sacrament, which ſtands without in carnal bread &amp; wine, and feeds the carnal, which oppreſſeth and murders the ſeed of God within you, and you ſay, <hi>Chriſt hath left that as an Ordinance for you to practice:</hi> which is falſe, which
+<pb n="5" facs="tcp:118853:3"/>
+we deny; but the ſupper of the Lord we own, <hi>The Cup of bleſſing which we bleſs, is it not the Communion of the blood of Chriſt? and the broad which we break is it not the Communion of Chriſt? for we being many are one bread, for we are all, partakers of that one bread</hi> 1. Cor. 10. 16. 17. 21. 22. <hi>And this is the bread which came down from heaven, he that eateth thereof ſhall never die;</hi> and this bread we all eat of, and this cup we all drink of, and this is that which is practiſed and commanded in the Church of Chriſt, and ſo we ſit at the table of Chriſt, and cannot ſit nor have fellowſhip with the table of divels: and they who ſit at your table and your Sacrament, and eats of your bread, and drink of your wine, they die, for it is not the bread of life, and you who eats and drinks it, doth not diſcern the Lords body, for it is ſpiritual, and your Sacrament is carnal, <hi>And ſo you eate and drink damnation to your ſelves not diſcerning the Lords body,</hi> feeding the carnal with the carnal; and ſo we deny your Sacrament to be an Ordinance of Chriſt, or the Supper of Chriſt, 1 <hi>Cor.</hi> 11. 29.</p>
+               <p>All who ſtumbles at the light are without and are not come to repentance, and ſo all who ſtumbles at the light, ſtumbles at repentance. All who ſtumbles at the light, ſtumbles at the door, the door is known by the light which is come from <hi>Chriſt:</hi> And all who ſtumbles at the light, ſtumbles at the way, for <hi>Chriſt</hi> hath enlightened every one, that with the light he might ſee the way (which is <hi>Chriſt)</hi> to the Father: So all who ſtumbles at the light, ſtumbles at the Scriptures, and doth no know the meaning of them; for that eye that is turned from the light is the blind and leads into the ditch; and is to be condemned with the light from <hi>Chriſt:</hi> All who ſtumbles at the light never knew Hope which purifies, nor Faith which purifies, nor the belief which overcomes the world; but he walks in darkneſs, and doth not know whether he goes, and the Children of light which dwels in the light, to him their condition is unknown for he hates that which they walk in: So with that he is condemned, and to you all this is the word of God: And all who ſtumbles at the light, ſtumbles at the Prophets words, and cannot underſt and the words of them, ſpoken from the light which in them was; And all who ſtumbles at the light ſtumbles at the Apoſtles words, which were declared from the light which was made manifeſt in
+<pb n="6" facs="tcp:118853:4"/>
+all Conſciences which miniſtred to the Spirit in Priſon: So all who ſtumbles at the light, they are to be condemned with the light from the life of the Prophets and Apoſtles, which dwelt in the light with the rude wicked world, And here every one ſnall witneſs his condemnation juſt, and ſee it juſt, with the light which ſhews him his evil deeds, and <hi>Chriſts</hi> words true, and to his own condemnation.</p>
+            </div>
+            <div type="part">
+               <head>To all who denies the teachings of God in ſpirit, and would keep people in the teach<g ref="char:EOLhyphen"/>ings of men from the Letter, ever learning, but never able to come to the know<g ref="char:EOLhyphen"/>ledge of the truth.</head>
+               <p n="1">1. Whatand where that new Jeruſalem is which cam down from heaven, in which there is no night, neither needs it light of ſun, moon, or candle, but the Lord God is the light thereof: and into which ſhall in no wiſe en<g ref="char:EOLhyphen"/>ter any thing that defileth, worketh abomination, or maketh a lie, but whoſe names are written in the book of life?</p>
+               <p n="2">2. What and where that <hi>Sion</hi> is, to which all Nations ſhall <note place="margin">Iſa. 2. Mich. 4.</note> flow, where the Lord ſhall teach of his waies, and from whence the Law of God and his word ſhall go forth; after which they ſhall learn war no more, but ſhall ſay, Come let us walk in the light of the Lord.</p>
+               <p n="3">3. What and where that Covenant is wherein the Lord will <note place="margin">Jer. 31. Heb. 8.!</note> write his Law in peoples hearts, and put it in their inward parts: and they ſhall no more teach every one their neighbour and brother, ſaying, Know the Lord, for all ſhall know him from the leaſt to the greateſt; and whether any may expect to come into that Covenant in theſe daies?</p>
+               <p n="4">4. What and where that unction and anointing is, by which the Saints knew all things, and needed not that any ſhould teach them, but as that anointing taught them of all things which was true, and in it was no lie? and whether it be of the ſame ef<g ref="char:EOLhyphen"/>fect in theſe daies?</p>
+               <p n="5">5. What and where that comforter is, which doth reprove the <note place="margin">John 16.</note> world of ſin, of righteouſneſs and of judgement, and doth guide into all truths, and ſhews things to come, and ſhews the things of Chriſt, and glorifies him: and whether that comforter may be expected in theſe daies?</p>
+               <p n="6">6. Whether any of the Saints of God may expect, and wait <note place="margin">Jer. 23.</note> to receive his word from his own mouth immediately, as all the meſſengers of God did in all ages: or there muſt be no word now but the letter taken out of books and which hath been former<g ref="char:EOLhyphen"/>ly ſpoken to others?</p>
+               <p n="7">
+                  <pb n="7" facs="tcp:118853:4"/>
+7. Whether any may wait for that promiſe fulfilling in theſe <note place="margin">Iſa. 54. 13. John 6. 45.</note> daies, that all the children of God ſhall be taught of God; and whether that teaching be ſufficient to ſalvation, without any hu<g ref="char:EOLhyphen"/>mane help or learning from man?</p>
+               <p n="8">8. What and where that word is that people ſhall hear behind them, ſaying, This is the way, walk in it, when they turn to the right hand, or to the left, and what that teacher in the midſt of <note place="margin">Iſa. 30.</note> them is, which ſhall be no more in corners: and whether any may expect that word and Teacher in theſe daies?</p>
+               <p n="9">9. What that word of ſaith is, which needs none to ſay, Who <note place="margin">Deut. 30. 14. Rom. 10.</note> ſhall aſcend up into heaven, or into the depth, to fetch Chriſt from above, or below; but which was nigh in the heart, which the Apoſtles preached to them which had it in their hearts: and whether the ſame word be not in the hearts of people now, though they mind it not?</p>
+               <p n="10">10. What that voice of Chriſt is which his ſheep knows, and <note place="margin">John 10.</note> how they come to know it from all other voices, and which all that hear it, will no more hear the voice of a ſtranger, hireling, or thief, but by that voice are brought to follow Churiſt alone; and whether Chriſts ſheep hear the ſame voice now, and know it from all falſe voices?</p>
+               <p n="11">11. Whas that way in the wilderneſs is; which is called the <note place="margin">Iſa. 35.</note> way of holineſs, which the unclean ſhall not paſs over, but it ſhall be for the wayfering man, and fools ſhall not err therein: in which way the redeemed ſhall walk, and the ranſomed of the Lord ſhall come up to <hi>Sion;</hi> and whether any may expect to find that way who are ſtrangers and fools in theſe daies?</p>
+               <p n="12">12. What that Miniſtration of ſpirit is which is given to every <note place="margin">1 Cor. 12. 7.</note> one to profit withall, and whether there can be any profiting without it: and whether it be not of it ſelf an infallible guide in all the waies of God according to its manifeſtation?</p>
+               <p n="13">13. What and where that worſhip of God in ſpirit and truth <note place="margin">John 4. 23, 24.</note> is, which God alone ſeeks to be worſhipped in; and whether any can worſhip in ſpirit, but he who is born of the ſpirit; and whe<g ref="char:EOLhyphen"/>ther he that is born of the ſpirit, needs any other guide in that ſpiritual worſhip, but that ſpirit of which he is born, according to its meaſure, and whether ſuch worſhippers have not been, and are now different from all other worſhips, and therefore hated by them as in all ages?</p>
+               <p n="14">14. What and where that light is which enlightens every one <note place="margin">John 1. 0. Iohn 3.</note> that comes into the world, and is the condemnation of all that loves darkneſs, becauſe of their evil deeds; and whether there be
+<pb n="8" facs="tcp:118853:5"/>
+any other condemnation but this light to all who believe not in it, but hate it?</p>
+               <p n="15">15. What that Law of the ſpirit of life is, which after <hi>Pauls</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8.</note> warfare did ſet him free from the law of ſin and death; which formerly had lead him captive into the law of ſin and made him wretched; and whether any now in theſe daies may look to be ſet free by the ſame Law of the ſpirit of life from the ſaid wretch<g ref="char:EOLhyphen"/>ed condition who find themſelves in it?</p>
+               <p n="16">16. What that grace of God is which brings ſalvation, and hath appeared to all men, and teacheth the Saints to deny all un<g ref="char:EOLhyphen"/>godlineſs and worldly luſts; and whether it would not teach all men the ſame, if they did not turn it into laſciviouſneſs, and they need no other teacher?</p>
+               <closer>
+                  <signed>J. N</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The light in your conſcience the true Teacher.</head>
+               <p>FRiends, You that look out at Teachers, without you conſider what you have bin doing all this while, and what you have learned, you will ſee yourſelves to be ſtrangers from the Covenant of promiſe, by which all com to know the Lord, and need not teach one another; this Covenant of peace you are ſtrangers from who own nor the light, which Chriſt doth enlighten every one that cometh into the world withall to teach you, if you have the ight which Chriſt doth enlighten every one with, which ſhews you ſin, and evil, and the deceits of your hearts, and how you have ſpen your time, and how you ſpend it, and whom you have ſerved, and whom you do ſerve, that light is your teacher to teach righteouſneſs, for it is righteouſneſs that light will be your condemna<g ref="char:EOLhyphen"/>tion hating it, and you ſet up ſuch teachers as hate this light, that are call'd of men maſters, have the chief places in the Aſſemblies, which Chriſt cryed woe againſt, and ſo doth not own that Chriſt which the Scripture ſpeaks of, but ſets up ſuch as Chriſt cry'd woe againſt: as you may try your ſpirits, read Mat. 23. If you will own the Scyiptures, and if ever you will own God you muſt own that light in your conſciences which Chriſt has enlightned you with: for it is the eye, and if ever you ſee the Church which is in God the Father of our Lord Jeſus Chriſt, it muſt be with this light which Chriſt hath enlightned you with but hating this light, you run to the teachers of the world, and worſhips of this world and ſo from God and the Church in God, and this light will be your condemnation that hate it. Now if you love this light it will reach yov when you lie in bed, and ſhew you where your heart is, and what your thoughts are up<g ref="char:EOLhyphen"/>on, and all the deceits of your hearts, and bring you to ſtand in the coun<g ref="char:EOLhyphen"/>cel of God, to receive inſtruction from God, and direction how to walk before him; and as this light doth ſhew you ſin, and the deceits of your hearts, ſtand ſtill in the light, and Will nothing but wait for the power of God to ſtand againſt that nature which the light of Chriſt diſcovers in you, and here is your firſt ſtep to peace.</p>
+               <closer>
+                  <signed>G. F.</signed>
+And eternally you ſhall witneſs what I ſpeak, For to that in your conſciences do I ſpeak.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
